@@ -10,7 +10,7 @@ This project is a simple web page displaying product details for the "Embrace Si
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
