@@ -21,8 +21,7 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 - `index.html`: Main HTML file containing the structure of the product details page.
 - `index.css`: CSS file for styling the product details page.
 - `script.js`: JavaScript file responsible for fetching data from the API and updating the page content dynamically.
-- `images/`: Directory containing images used in the project.
-- `public/`: Directory containing public assets like SVG icons.
+
 
 ## Prerequisites
 
